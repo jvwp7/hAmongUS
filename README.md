@@ -145,6 +145,7 @@ Para adquirir a **versão final completa** sem bugs e com todas as funcionalidad
 
 **🔗 Links Úteis:**
 - [Issues](https://github.com/jvwp7/hAmongUS/issues)
-- [Discord](https://discord.com/users/632982949842649098)
+- [Discord](https://discord.gg/ZuV4G2uKjT)
 - [Wiki](https://github.com/jvwp7/hAmongUS/wiki)
+
 
