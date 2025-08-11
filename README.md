@@ -39,7 +39,7 @@ O **hAmongUS** é um plugin completo de Among Us para Minecraft 1.8.9, desenvolv
 ### Compilação
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/hAmongUS.git
+git clone https://github.com/jvwp7/hAmongUS.git
 
 # Entre no diretório
 cd hAmongUS
@@ -147,3 +147,4 @@ Para adquirir a **versão final completa** sem bugs e com todas as funcionalidad
 - [Issues](https://github.com/jvwp7/hAmongUS/issues)
 - [Discord](https://discord.com/users/632982949842649098)
 - [Wiki](https://github.com/jvwp7/hAmongUS/wiki)
+
